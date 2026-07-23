@@ -51,9 +51,7 @@ The script (`eda_and_anomaly_detection.py`) performs:
 ![Dashboard Page 2](page2_anomalies.png)
 
 ## Dashboard Demo Video
-
-(Drag your video file into this README on GitHub's web editor — it will auto-generate
-an embed link here.)
+[Watch Dashboard Demo](VID-20260723-WA0003.mp4)
 
 ## Power BI Dashboard
 
@@ -68,7 +66,7 @@ settling fastest vs. Public Blockchain slowest — the interoperability tradeoff
 interactive scatter chart colour-coded by anomaly flag, and a table of the 9 flagged
 transactions.
 
-*(Dashboard demo video linked below — add after uploading)*
+
 
 ## Key Finding
 
