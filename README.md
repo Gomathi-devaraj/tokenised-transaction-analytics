@@ -51,7 +51,7 @@ The script (`eda_and_anomaly_detection.py`) performs:
 ![Dashboard Page 2](page2_anomalies.png)
 
 ## Dashboard Demo Video
-[Watch Dashboard Demo](VID-20260723-WA0003.mp4)
+[Watch Dashboard Demo](VID-20260901-WA0005.mp4)
 
 ## Power BI Dashboard
 
